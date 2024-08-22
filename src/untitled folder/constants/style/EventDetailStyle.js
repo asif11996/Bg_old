@@ -1,0 +1,131 @@
+import {Dimensions, StyleSheet} from 'react-native';
+import COLORS from '../../assets/consts/colors';
+import {hp, wp} from '../theme';
+const {width} = Dimensions.get('screen');
+const cardWidth = width / 1.8;
+
+const EventDetailStyle = StyleSheet.create({
+  backgroundImageContainer: {
+    elevation: 20,
+    marginHorizontal: 20,
+    marginTop: 20,
+    alignItems: 'center',
+    height: 350,
+    marginVertical: hp(3),
+  },
+  backgroundImage: {
+    height: '100%',
+    width: '100%',
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  headers: {
+    paddingVertical: 20,
+    // flexDirection: 'row',
+    // backgroundColor: 'red',
+    // justifyContent: 'space-between',
+    // justifyContent: 'center',
+    // alignItems: 'center',
+    paddingHorizontal: 20,
+  },
+  profileImage: {
+    height: 80,
+    width: 80,
+    borderRadius: 40,
+  },
+  header: {
+    paddingVertical: 20,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingHorizontal: 10,
+  },
+  headerBtn: {
+    height: 50,
+    width: 50,
+    backgroundColor: COLORS.white,
+    borderRadius: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  virtualTag: {
+    top: -20,
+    width: 120,
+    borderRadius: 10,
+    height: 40,
+    paddingHorizontal: 20,
+    backgroundColor: COLORS.dark,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  btn: {
+    height: 55,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: 40,
+    backgroundColor: COLORS.primary,
+    marginHorizontal: 20,
+    borderRadius: 10,
+  },
+
+  priceTag: {
+    height: 40,
+    alignItems: 'center',
+    marginLeft: 40,
+    paddingLeft: 20,
+    flex: 1,
+    backgroundColor: COLORS.secondary,
+    borderTopLeftRadius: 20,
+    borderBottomLeftRadius: 20,
+    flexDirection: 'row',
+  },
+  iconContainer: {
+    position: 'absolute',
+    height: 60,
+    width: 60,
+    backgroundColor: COLORS.primary,
+    top: -30,
+    right: 20,
+    borderRadius: 30,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  headerImage: {
+    height: 300,
+    borderBottomRightRadius: 40,
+    borderBottomLeftRadius: 40,
+    overflow: 'hidden',
+  },
+  header: {
+    marginTop: 60,
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginHorizontal: 20,
+    justifyContent: 'space-between',
+  },
+  footer: {
+    height: 70,
+    width: '90%',
+
+    position: 'absolute',
+    bottom: 0,
+    alignSelf: 'center',
+    justifyContent: 'center',
+    // right: 0,
+    backgroundColor: '#e1e8e9',
+    borderRadius: 10,
+    paddingHorizontal: 20,
+    alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginVertical: 10,
+  },
+  bookNowBtn: {
+    height: 50,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: COLORS.dark,
+    borderRadius: 10,
+    paddingHorizontal: 20,
+  },
+});
+export {EventDetailStyle};

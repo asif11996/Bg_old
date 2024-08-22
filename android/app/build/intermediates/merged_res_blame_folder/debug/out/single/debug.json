@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.bogathon.app-main-93:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bogathon.app-merged_res-91:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bogathon.app-main-93:/mipmap-mdpi/ic_launcher_foreground.png"
+    }
+]

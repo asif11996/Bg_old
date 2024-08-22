@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bogathon.app-mergeReleaseResources-87:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/hafizawais/.gradle/caches/transforms-3/3f7fda8d7c4785cffb6efcc06a3cabae/transformed/jetified-payments-core-20.28.3/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

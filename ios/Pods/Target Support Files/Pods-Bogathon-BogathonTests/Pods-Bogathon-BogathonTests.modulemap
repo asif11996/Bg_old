@@ -1,0 +1,6 @@
+module Pods_Bogathon_BogathonTests {
+  umbrella header "Pods-Bogathon-BogathonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

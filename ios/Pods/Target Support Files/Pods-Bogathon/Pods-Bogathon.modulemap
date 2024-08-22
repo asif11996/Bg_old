@@ -1,0 +1,6 @@
+module Pods_Bogathon {
+  umbrella header "Pods-Bogathon-umbrella.h"
+
+  export *
+  module * { export * }
+}
